@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="item1: 가변성을 제한하라">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch1_Safety/item2.md" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="item2. 변수의 스코프를 최소화 하라.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch1_Safety/item3.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683541704965</updated>
       <workItem from="1683541707329" duration="444000" />
-      <workItem from="1683542163093" duration="3155000" />
+      <workItem from="1683542163093" duration="3969000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683544876431</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="item2. 변수의 스코프를 최소화 하라.">
+      <created>1683545389191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683545389191</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project init" />
     <MESSAGE value="item1: 가변성을 제한하라" />
-    <option name="LAST_COMMIT_MESSAGE" value="item1: 가변성을 제한하라" />
+    <MESSAGE value="item2. 변수의 스코프를 최소화 하라." />
+    <option name="LAST_COMMIT_MESSAGE" value="item2. 변수의 스코프를 최소화 하라." />
   </component>
 </project>
