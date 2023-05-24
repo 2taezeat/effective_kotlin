@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="item4. inferred 타입으로 리턴하지 말라.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch1_Safety/item5.md" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="item5. 예외를 활용해 코드에 제한을 걸어라">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch1_Safety/item6.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,9 @@
       <updated>1683541704965</updated>
       <workItem from="1683541707329" duration="444000" />
       <workItem from="1683542163093" duration="3988000" />
-      <workItem from="1683614735713" duration="1544000" />
+      <workItem from="1683614735713" duration="1568000" />
+      <workItem from="1683704559896" duration="18000" />
+      <workItem from="1684906032338" duration="286000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -98,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683615150765</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="item5. 예외를 활용해 코드에 제한을 걸어라">
+      <created>1683616300480</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683616300480</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +130,7 @@
     <MESSAGE value="item2. 변수의 스코프를 최소화 하라." />
     <MESSAGE value="item3. 최대한 플랫폼 타입을 사용하지 말라" />
     <MESSAGE value="item4. inferred 타입으로 리턴하지 말라." />
-    <option name="LAST_COMMIT_MESSAGE" value="item4. inferred 타입으로 리턴하지 말라." />
+    <MESSAGE value="item5. 예외를 활용해 코드에 제한을 걸어라" />
+    <option name="LAST_COMMIT_MESSAGE" value="item5. 예외를 활용해 코드에 제한을 걸어라" />
   </component>
 </project>
