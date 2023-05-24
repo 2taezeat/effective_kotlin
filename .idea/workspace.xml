@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 13. Unit? 을 리턴하지 말라.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch2_Readability/item14.md" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="# 아이템 14. 변수 타입이 명확하지 않은 경우 확실하게 지정하라.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch2_Readability/item15.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch1_Safety/item3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch1_Safety/item3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <workItem from="1683542163093" duration="3988000" />
       <workItem from="1683614735713" duration="1568000" />
       <workItem from="1683704559896" duration="18000" />
-      <workItem from="1684906032338" duration="6433000" />
+      <workItem from="1684906032338" duration="6981000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -165,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684912916710</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="# 아이템 14. 변수 타입이 명확하지 않은 경우 확실하게 지정하라.">
+      <created>1684913194686</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684913194686</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +203,7 @@
     <MESSAGE value="아이템 11. 가독성을 목표로 설계하라." />
     <MESSAGE value="아이템 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라." />
     <MESSAGE value="아이템 13. Unit? 을 리턴하지 말라." />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 13. Unit? 을 리턴하지 말라." />
+    <MESSAGE value="# 아이템 14. 변수 타입이 명확하지 않은 경우 확실하게 지정하라." />
+    <option name="LAST_COMMIT_MESSAGE" value="# 아이템 14. 변수 타입이 명확하지 않은 경우 확실하게 지정하라." />
   </component>
 </project>
