@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="item7. 결과 부족이 발생할 경우 null과 Failure를 사용하라">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch1_Safety/item8.md" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="item8. 적절하게 null을 사용하라.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch1_Safety/item9.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <workItem from="1683542163093" duration="3988000" />
       <workItem from="1683614735713" duration="1568000" />
       <workItem from="1683704559896" duration="18000" />
-      <workItem from="1684906032338" duration="2905000" />
+      <workItem from="1684906032338" duration="4345000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684907228155</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="item8. 적절하게 null을 사용하라.">
+      <created>1684908958095</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684908958095</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +154,7 @@
     <MESSAGE value="item5. 예외를 활용해 코드에 제한을 걸어라" />
     <MESSAGE value="item6. 사용자 정의 오류보다는 표준 오류를 사용하라" />
     <MESSAGE value="item7. 결과 부족이 발생할 경우 null과 Failure를 사용하라" />
-    <option name="LAST_COMMIT_MESSAGE" value="item7. 결과 부족이 발생할 경우 null과 Failure를 사용하라" />
+    <MESSAGE value="item8. 적절하게 null을 사용하라." />
+    <option name="LAST_COMMIT_MESSAGE" value="item8. 적절하게 null을 사용하라." />
   </component>
 </project>
