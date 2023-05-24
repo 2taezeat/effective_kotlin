@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 16. 프로퍼티는 동작이 아니라 상태를 나타내야 한다.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch2_Readability/item17.md" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 17. 이름 있는 argument 를 사용하라">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch2_Readability/item18.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <workItem from="1683542163093" duration="3988000" />
       <workItem from="1683614735713" duration="1568000" />
       <workItem from="1683704559896" duration="18000" />
-      <workItem from="1684906032338" duration="8537000" />
+      <workItem from="1684906032338" duration="8742000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -185,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684914906361</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="아이템 17. 이름 있는 argument 를 사용하라">
+      <created>1684915301928</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684915301928</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +227,7 @@
     <MESSAGE value="# 아이템 14. 변수 타입이 명확하지 않은 경우 확실하게 지정하라." />
     <MESSAGE value="아이템 15. receiver 를 명시적으로 참조하라." />
     <MESSAGE value="아이템 16. 프로퍼티는 동작이 아니라 상태를 나타내야 한다." />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 16. 프로퍼티는 동작이 아니라 상태를 나타내야 한다." />
+    <MESSAGE value="아이템 17. 이름 있는 argument 를 사용하라" />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 17. 이름 있는 argument 를 사용하라" />
   </component>
 </project>
