@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 25. 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch3_Reusability/item24.md" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 24. 제네릭 타입과 variance 한정자를 활용하라">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch3_Reusability/item24.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch3_Reusability/item24.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1683542163093" duration="3988000" />
       <workItem from="1683614735713" duration="1568000" />
       <workItem from="1683704559896" duration="18000" />
-      <workItem from="1684906032338" duration="14137000" />
+      <workItem from="1684906032338" duration="14229000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -252,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684926865600</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="아이템 24. 제네릭 타입과 variance 한정자를 활용하라">
+      <created>1684928470705</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1684928470705</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +277,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="project init" />
     <MESSAGE value="item1: 가변성을 제한하라" />
     <MESSAGE value="item2. 변수의 스코프를 최소화 하라." />
     <MESSAGE value="item3. 최대한 플랫폼 타입을 사용하지 말라" />
@@ -295,6 +301,7 @@
     <MESSAGE value="아이템 22. 일반적인 알고리즘을 구현할 때 제네릭을 사용하라." />
     <MESSAGE value="아이템 23. 타입 파라미터의 섀도잉을 피하라" />
     <MESSAGE value="아이템 25. 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라" />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 25. 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라" />
+    <MESSAGE value="아이템 24. 제네릭 타입과 variance 한정자를 활용하라" />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 24. 제네릭 타입과 variance 한정자를 활용하라" />
   </component>
 </project>

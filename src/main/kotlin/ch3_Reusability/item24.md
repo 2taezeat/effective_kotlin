@@ -46,6 +46,6 @@ objects[2] = "B"; // run-time Error
 
 - 코틀린에서 `List와 Set` 타입 파라미터는 `covariant(out 한정자)`
 - `Map`에서 값의 타입을 나타내는 타입 파라미터는 `covariant(out 한정자)` 이다.
-- `Array, MutableList, MutableSet, MutableMap` 의 타입 파라미터는 `covariant(out 한정자)` 이다.
+- `Array, MutableList, MutableSet, MutableMap` 의 타입 파라미터는 `invariant` 이다.
 - return 만 되는 타입에는 `covariant(out 한정자)`를 사용
 - 허용만 되는 타입에는 `contravariant(in 한정자)`를 사용
