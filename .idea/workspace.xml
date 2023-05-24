@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 11. 가독성을 목표로 설계하라.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch2_Readability/item12.md" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch2_Readability/item13.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <workItem from="1683542163093" duration="3988000" />
       <workItem from="1683614735713" duration="1568000" />
       <workItem from="1683704559896" duration="18000" />
-      <workItem from="1684906032338" duration="5859000" />
+      <workItem from="1684906032338" duration="6159000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684912355056</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="아이템 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라.">
+      <created>1684912679996</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684912679996</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +187,7 @@
     <MESSAGE value="아이템 9. use를 사용하여 리소스를 닫아라." />
     <MESSAGE value="아이템 10. 단위 테스트를 만들어라." />
     <MESSAGE value="아이템 11. 가독성을 목표로 설계하라." />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 11. 가독성을 목표로 설계하라." />
+    <MESSAGE value="아이템 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라." />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라." />
   </component>
 </project>
