@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 27. API 안정성을 확인하라">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch4_AbstractionDesign/item28.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch4_AbstractionDesign/item26.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch4_AbstractionDesign/item26.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch4_AbstractionDesign/item27.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch4_AbstractionDesign/item27.md" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 26. 함수 내부의 추상활 레벨을 통일해라">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch4_AbstractionDesign/item29.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,7 @@
       <workItem from="1683704559896" duration="18000" />
       <workItem from="1684906032338" duration="14871000" />
       <workItem from="1684979560356" duration="176000" />
-      <workItem from="1684981701450" duration="4350000" />
+      <workItem from="1684981701450" duration="4675000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -279,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684992061190</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="아이템 26. 함수 내부의 추상활 레벨을 통일해라">
+      <created>1684992398959</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1684992398959</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +301,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="item3. 최대한 플랫폼 타입을 사용하지 말라" />
     <MESSAGE value="item4. inferred 타입으로 리턴하지 말라." />
     <MESSAGE value="item5. 예외를 활용해 코드에 제한을 걸어라" />
     <MESSAGE value="item6. 사용자 정의 오류보다는 표준 오류를 사용하라" />
@@ -322,6 +325,7 @@
     <MESSAGE value="아이템 24. 제네릭 타입과 variance 한정자를 활용하라" />
     <MESSAGE value="아이템 26. 변화로부터 코드를 보호하려면 추상화를 사용하라" />
     <MESSAGE value="아이템 27. API 안정성을 확인하라" />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 27. API 안정성을 확인하라" />
+    <MESSAGE value="아이템 26. 함수 내부의 추상활 레벨을 통일해라" />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 26. 함수 내부의 추상활 레벨을 통일해라" />
   </component>
 </project>
