@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="나머지 아이템.md 파일 생성">
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 36. 상속보다는 컴포지션(합성)을 사용하라.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item36.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item36.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item37.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item37.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <workItem from="1683704559896" duration="18000" />
       <workItem from="1684906032338" duration="14871000" />
       <workItem from="1684979560356" duration="176000" />
-      <workItem from="1684981701450" duration="12526000" />
+      <workItem from="1684981701450" duration="13028000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -341,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685000983693</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="아이템 36. 상속보다는 컴포지션(합성)을 사용하라.">
+      <created>1685002492159</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1685002492159</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,7 +366,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="아이템 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라." />
     <MESSAGE value="아이템 13. Unit? 을 리턴하지 말라." />
     <MESSAGE value="# 아이템 14. 변수 타입이 명확하지 않은 경우 확실하게 지정하라." />
     <MESSAGE value="아이템 15. receiver 를 명시적으로 참조하라." />
@@ -384,6 +390,7 @@
     <MESSAGE value="아이템 34. 기본 생성자에 이름 있는 옵션 아규먼트를 사용하라" />
     <MESSAGE value="아이템 35. 복잡한 객체를 생성하기 위한 DSL를 정의하라" />
     <MESSAGE value="나머지 아이템.md 파일 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="나머지 아이템.md 파일 생성" />
+    <MESSAGE value="아이템 36. 상속보다는 컴포지션(합성)을 사용하라." />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 36. 상속보다는 컴포지션(합성)을 사용하라." />
   </component>
 </project>
