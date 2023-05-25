@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 34. 기본 생성자에 이름 있는 옵션 아규먼트를 사용하라">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch5_ObjectCreation/item35.md" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 35. 복잡한 객체를 생성하기 위한 DSL를 정의하라">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item36.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item37.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item38.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item39.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item40.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item41.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item42.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item43.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item44.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item45.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item46.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item47.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item48.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item49.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item50.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item51.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item52.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/taezeat/IdeaProjects/effective_kotlin/src/main/kotlin/ch5_ObjectCreation",
+    "last_opened_file_path": "/Users/taezeat/IdeaProjects/effective_kotlin/src/main/kotlin/ch8_EfficientCollectionProcessing",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -48,13 +64,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/ch5_ObjectCreation" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/ch4_AbstractionDesign" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin/ch4_Abstraction" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin/ch3_Reusability" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin/ch2_Readability" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/ch3_Reusability" />
     </key>
   </component>
@@ -72,7 +89,7 @@
       <workItem from="1683704559896" duration="18000" />
       <workItem from="1684906032338" duration="14871000" />
       <workItem from="1684979560356" duration="176000" />
-      <workItem from="1684981701450" duration="10805000" />
+      <workItem from="1684981701450" duration="11011000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -326,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685000454569</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="아이템 35. 복잡한 객체를 생성하기 위한 DSL를 정의하라">
+      <created>1685000834723</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1685000834723</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +368,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="아이템 10. 단위 테스트를 만들어라." />
     <MESSAGE value="아이템 11. 가독성을 목표로 설계하라." />
     <MESSAGE value="아이템 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라." />
     <MESSAGE value="아이템 13. Unit? 을 리턴하지 말라." />
@@ -369,6 +392,7 @@
     <MESSAGE value="아이템 32. 추상화 규약을 지켜라" />
     <MESSAGE value="아이템 33. 생성자 대신 팩토리 함수를 사용하라" />
     <MESSAGE value="아이템 34. 기본 생성자에 이름 있는 옵션 아규먼트를 사용하라" />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 34. 기본 생성자에 이름 있는 옵션 아규먼트를 사용하라" />
+    <MESSAGE value="아이템 35. 복잡한 객체를 생성하기 위한 DSL를 정의하라" />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 35. 복잡한 객체를 생성하기 위한 DSL를 정의하라" />
   </component>
 </project>
