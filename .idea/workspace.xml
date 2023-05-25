@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 38. 연산 또는 액션을 전달할 때는 인터페이스 대신 함수 타입을 사용하라">
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 39. 태그 클래스보다는 클래스 계층을 사용하라">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item39.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item39.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item40.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item40.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <workItem from="1683704559896" duration="18000" />
       <workItem from="1684906032338" duration="14871000" />
       <workItem from="1684979560356" duration="176000" />
-      <workItem from="1684981701450" duration="16587000" />
+      <workItem from="1684981701450" duration="17614000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -362,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685019729653</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="아이템 39. 태그 클래스보다는 클래스 계층을 사용하라">
+      <created>1685021548040</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1685021548040</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,7 +387,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="아이템 15. receiver 를 명시적으로 참조하라." />
     <MESSAGE value="아이템 16. 프로퍼티는 동작이 아니라 상태를 나타내야 한다." />
     <MESSAGE value="아이템 17. 이름 있는 argument 를 사용하라" />
     <MESSAGE value="아이템 18. 코딩 컨벤션을 지켜라" />
@@ -405,6 +411,7 @@
     <MESSAGE value="아이템 36. 상속보다는 컴포지션(합성)을 사용하라." />
     <MESSAGE value="아이템 37. 데이터 집합 표현에 data 한정자를 사용하라" />
     <MESSAGE value="아이템 38. 연산 또는 액션을 전달할 때는 인터페이스 대신 함수 타입을 사용하라" />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 38. 연산 또는 액션을 전달할 때는 인터페이스 대신 함수 타입을 사용하라" />
+    <MESSAGE value="아이템 39. 태그 클래스보다는 클래스 계층을 사용하라" />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 39. 태그 클래스보다는 클래스 계층을 사용하라" />
   </component>
 </project>
