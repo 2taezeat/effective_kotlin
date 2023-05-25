@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 31. 문서로 규약을 정의하라">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch4_AbstractionDesign/item32.md" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 32. 추상화 규약을 지켜라">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ch5_ObjectCreation/item33.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/taezeat/IdeaProjects/effective_kotlin/src/main/kotlin/ch4_AbstractionDesign",
+    "last_opened_file_path": "/Users/taezeat/IdeaProjects/effective_kotlin/src/main/kotlin/ch5_ObjectCreation",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -48,11 +48,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/ch5_ObjectCreation" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/ch4_AbstractionDesign" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/ch4_Abstraction" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/ch3_Reusability" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/ch2_Readability" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin/ch1_Safety" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin/ch3_Reusability" />
@@ -72,7 +72,7 @@
       <workItem from="1683704559896" duration="18000" />
       <workItem from="1684906032338" duration="14871000" />
       <workItem from="1684979560356" duration="176000" />
-      <workItem from="1684981701450" duration="7043000" />
+      <workItem from="1684981701450" duration="9792000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -305,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684995480991</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="아이템 32. 추상화 규약을 지켜라">
+      <created>1684995535540</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1684995535540</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +330,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="item7. 결과 부족이 발생할 경우 null과 Failure를 사용하라" />
     <MESSAGE value="item8. 적절하게 null을 사용하라." />
     <MESSAGE value="아이템 9. use를 사용하여 리소스를 닫아라." />
     <MESSAGE value="아이템 10. 단위 테스트를 만들어라." />
@@ -348,6 +354,7 @@
     <MESSAGE value="아이템 29. 외부 API를 Wrap(랩) 해서 사용하라" />
     <MESSAGE value="아이템 30. 요소의 가시성을 최소화하라" />
     <MESSAGE value="아이템 31. 문서로 규약을 정의하라" />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 31. 문서로 규약을 정의하라" />
+    <MESSAGE value="아이템 32. 추상화 규약을 지켜라" />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 32. 추상화 규약을 지켜라" />
   </component>
 </project>
