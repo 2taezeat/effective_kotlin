@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 40. equals의 규약을 지켜라">
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 41. hashCode의 규약을 지켜라">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item41.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item41.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item42.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch6_ClassDesign/item42.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <workItem from="1685069607839" duration="27000" />
       <workItem from="1685069643857" duration="129000" />
       <workItem from="1685069782759" duration="28000" />
-      <workItem from="1685069818804" duration="1542000" />
+      <workItem from="1685069818804" duration="1863000" />
     </task>
     <task id="LOCAL-00001" summary="project init">
       <created>1683541757294</created>
@@ -389,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685024935666</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="아이템 41. hashCode의 규약을 지켜라">
+      <created>1685085613653</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1685085613653</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="아이템 17. 이름 있는 argument 를 사용하라" />
     <MESSAGE value="아이템 18. 코딩 컨벤션을 지켜라" />
     <MESSAGE value="아이템 19. knowledge 를 반복하여 사용하지 말라" />
     <MESSAGE value="아이템 20. 일반적인 알고리즘을 반복해서 구현하지 말라" />
@@ -432,7 +437,8 @@
     <MESSAGE value="아이템 38. 연산 또는 액션을 전달할 때는 인터페이스 대신 함수 타입을 사용하라" />
     <MESSAGE value="아이템 39. 태그 클래스보다는 클래스 계층을 사용하라" />
     <MESSAGE value="아이템 40. equals의 규약을 지켜라" />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 40. equals의 규약을 지켜라" />
+    <MESSAGE value="아이템 41. hashCode의 규약을 지켜라" />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 41. hashCode의 규약을 지켜라" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
