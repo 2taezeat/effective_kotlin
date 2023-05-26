@@ -8,5 +8,4 @@ fun main(args: Array<String>) {
     println("Program arguments: ${args.joinToString()}")
     val a = listOf<Int>(1,2,3)
 
-
 }
