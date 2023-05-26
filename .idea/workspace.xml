@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 45. 불필요한 객체 생성을 피하라">
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 46. 함수 타입 파라미터를 갖는 함수에 inline 한정자를 붙여라">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item46.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item46.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item47.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item47.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +78,7 @@
       <workItem from="1685069607839" duration="27000" />
       <workItem from="1685069643857" duration="129000" />
       <workItem from="1685069782759" duration="28000" />
-      <workItem from="1685069818804" duration="5073000" />
-    </task>
-    <task id="LOCAL-00001" summary="project init">
-      <created>1683541757294</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1683541757294</updated>
+      <workItem from="1685069818804" duration="5590000" />
     </task>
     <task id="LOCAL-00002" summary="item1: 가변성을 제한하라">
       <created>1683544876431</created>
@@ -423,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685087619665</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="아이템 46. 함수 타입 파라미터를 갖는 함수에 inline 한정자를 붙여라">
+      <created>1685089147026</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1685089147027</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +441,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="아이템 22. 일반적인 알고리즘을 구현할 때 제네릭을 사용하라." />
     <MESSAGE value="아이템 23. 타입 파라미터의 섀도잉을 피하라" />
     <MESSAGE value="아이템 25. 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라" />
     <MESSAGE value="아이템 24. 제네릭 타입과 variance 한정자를 활용하라" />
@@ -466,7 +465,8 @@
     <MESSAGE value="아이템 43. API의 필수적이지 않는 부분을 확장 함수로 추출하라" />
     <MESSAGE value="아이템 44. 멤버 확장 함수의 사용을 피하라" />
     <MESSAGE value="아이템 45. 불필요한 객체 생성을 피하라" />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 45. 불필요한 객체 생성을 피하라" />
+    <MESSAGE value="아이템 46. 함수 타입 파라미터를 갖는 함수에 inline 한정자를 붙여라" />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 46. 함수 타입 파라미터를 갖는 함수에 inline 한정자를 붙여라" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
