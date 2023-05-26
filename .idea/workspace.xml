@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 48. 더 이상 사용하지 않는 객체의 레퍼런스를 제거하라">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item48.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item48.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item49.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item49.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +78,7 @@
       <workItem from="1685069607839" duration="27000" />
       <workItem from="1685069643857" duration="129000" />
       <workItem from="1685069782759" duration="28000" />
-      <workItem from="1685069818804" duration="6366000" />
-    </task>
-    <task id="LOCAL-00004" summary="item3. 최대한 플랫폼 타입을 사용하지 말라">
-      <created>1683546139214</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1683546139214</updated>
+      <workItem from="1685069818804" duration="8150000" />
     </task>
     <task id="LOCAL-00005" summary="item4. inferred 타입으로 리턴하지 말라.">
       <created>1683615150765</created>
@@ -423,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685090313342</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="아이템 48. 더 이상 사용하지 않는 객체의 레퍼런스를 제거하라">
+      <created>1685090443435</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1685090443435</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
