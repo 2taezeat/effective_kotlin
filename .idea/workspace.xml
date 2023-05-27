@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 49. 하나 이상의 처리 단계를 가진 경우에는 시퀀스를 사용하라">
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="아이템 50. 컬렉션 처리 단계 수를 제한하라">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item48.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch7_MakeItCheap/item48.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item50.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item50.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item51.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item51.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item52.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ch8_EfficientCollectionProcessing/item52.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +79,7 @@
       <workItem from="1685069643857" duration="129000" />
       <workItem from="1685069782759" duration="28000" />
       <workItem from="1685069818804" duration="9041000" />
-      <workItem from="1685190985435" duration="725000" />
-    </task>
-    <task id="LOCAL-00006" summary="item5. 예외를 활용해 코드에 제한을 걸어라">
-      <created>1683616300480</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1683616300480</updated>
+      <workItem from="1685190985435" duration="1100000" />
     </task>
     <task id="LOCAL-00007" summary="item6. 사용자 정의 오류보다는 표준 오류를 사용하라">
       <created>1684906334708</created>
@@ -427,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685092351617</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="아이템 50. 컬렉션 처리 단계 수를 제한하라">
+      <created>1685191739785</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1685191739786</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +442,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="아이템 26. 변화로부터 코드를 보호하려면 추상화를 사용하라" />
     <MESSAGE value="아이템 27. API 안정성을 확인하라" />
     <MESSAGE value="아이템 26. 함수 내부의 추상활 레벨을 통일해라" />
     <MESSAGE value="아이템 29. 외부 API를 Wrap(랩) 해서 사용하라" />
@@ -470,7 +466,8 @@
     <MESSAGE value="아이템 47, 인라인 클래스의 사용을 고려하라." />
     <MESSAGE value="아이템 48. 더 이상 사용하지 않는 객체의 레퍼런스를 제거하라" />
     <MESSAGE value="아이템 49. 하나 이상의 처리 단계를 가진 경우에는 시퀀스를 사용하라" />
-    <option name="LAST_COMMIT_MESSAGE" value="아이템 49. 하나 이상의 처리 단계를 가진 경우에는 시퀀스를 사용하라" />
+    <MESSAGE value="아이템 50. 컬렉션 처리 단계 수를 제한하라" />
+    <option name="LAST_COMMIT_MESSAGE" value="아이템 50. 컬렉션 처리 단계 수를 제한하라" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
