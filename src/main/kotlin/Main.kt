@@ -1,4 +1,4 @@
-
+import java.util.ArrayList
 
 fun main(args: Array<String>) {
     println("Hello World!")
@@ -9,4 +9,9 @@ fun main(args: Array<String>) {
     val a = listOf<Int>(1,2,3)
     val b = mutableListOf(1,2,3)
     b.add(4)
+
+
+
+    val c = arrayListOf<Int>(1,2,3)
+    val d = listOf(1,2,3)
 }
