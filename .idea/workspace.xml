@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="CODEOWNERS edit">
       <change beforePath="$PROJECT_DIR$/.github/CODEOWNERS" beforeDir="false" afterPath="$PROJECT_DIR$/.github/CODEOWNERS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,14 +110,7 @@
       <workItem from="1685194259276" duration="1129000" />
       <workItem from="1685680295648" duration="80000" />
       <workItem from="1685681639889" duration="28000" />
-      <workItem from="1699595516090" duration="303000" />
-    </task>
-    <task id="LOCAL-00012" summary="아이템 11. 가독성을 목표로 설계하라.">
-      <created>1684912355056</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1684912355056</updated>
+      <workItem from="1699595516090" duration="318000" />
     </task>
     <task id="LOCAL-00013" summary="아이템 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라.">
       <created>1684912679996</created>
@@ -454,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699595727701</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="CODEOWNERS edit">
+      <created>1699595821116</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1699595821116</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
