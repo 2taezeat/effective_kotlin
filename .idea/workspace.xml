@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="CODEOWNERS edit">
-      <change beforePath="$PROJECT_DIR$/.github/CODEOWNERS" beforeDir="false" afterPath="$PROJECT_DIR$/.github/CODEOWNERS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="CODEOWNERS edit2">
+      <change beforePath="$PROJECT_DIR$/REAEMD.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,35 +109,7 @@
       <workItem from="1685194259276" duration="1129000" />
       <workItem from="1685680295648" duration="80000" />
       <workItem from="1685681639889" duration="28000" />
-      <workItem from="1699595516090" duration="318000" />
-    </task>
-    <task id="LOCAL-00013" summary="아이템 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라.">
-      <created>1684912679996</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1684912679996</updated>
-    </task>
-    <task id="LOCAL-00014" summary="아이템 13. Unit? 을 리턴하지 말라.">
-      <created>1684912916710</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1684912916710</updated>
-    </task>
-    <task id="LOCAL-00015" summary="# 아이템 14. 변수 타입이 명확하지 않은 경우 확실하게 지정하라.">
-      <created>1684913194686</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1684913194686</updated>
-    </task>
-    <task id="LOCAL-00016" summary="아이템 15. receiver 를 명시적으로 참조하라.">
-      <created>1684913836295</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1684913836295</updated>
+      <workItem from="1699595516090" duration="596000" />
     </task>
     <task id="LOCAL-00017" summary="아이템 16. 프로퍼티는 동작이 아니라 상태를 나타내야 한다.">
       <created>1684914906361</created>
@@ -455,7 +426,35 @@
       <option name="project" value="LOCAL" />
       <updated>1699595821116</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="CODEOWNERS edit2">
+      <created>1699595838888</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1699595838888</updated>
+    </task>
+    <task id="LOCAL-00063" summary="CODEOWNERS edit2">
+      <created>1699595954130</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1699595954130</updated>
+    </task>
+    <task id="LOCAL-00064" summary="CODEOWNERS edit2">
+      <created>1699595993209</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1699595993209</updated>
+    </task>
+    <task id="LOCAL-00065" summary="CODEOWNERS edit2">
+      <created>1699596043100</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1699596043100</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,7 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="아이템 32. 추상화 규약을 지켜라" />
     <MESSAGE value="아이템 33. 생성자 대신 팩토리 함수를 사용하라" />
     <MESSAGE value="아이템 34. 기본 생성자에 이름 있는 옵션 아규먼트를 사용하라" />
     <MESSAGE value="아이템 35. 복잡한 객체를 생성하기 위한 DSL를 정의하라" />
@@ -498,7 +496,8 @@
     <MESSAGE value="부록, 용어 정리. Appendix.md" />
     <MESSAGE value="CODEOWNERS 추가" />
     <MESSAGE value="CODEOWNERS edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="CODEOWNERS edit" />
+    <MESSAGE value="CODEOWNERS edit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="CODEOWNERS edit2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
