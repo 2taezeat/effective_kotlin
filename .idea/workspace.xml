@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="부록, 용어 정리. Appendix.md">
-      <change beforePath="$PROJECT_DIR$/.githib/CODEOWNERS" beforeDir="false" afterPath="$PROJECT_DIR$/.github/CODEOWNERS" afterDir="false" />
+    <list default="true" id="9694309e-c98d-45a0-9a7f-179b633a0b41" name="Changes" comment="CODEOWNERS 추가">
+      <change beforePath="$PROJECT_DIR$/.github/CODEOWNERS" beforeDir="false" afterPath="$PROJECT_DIR$/.github/CODEOWNERS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="test1" />
+                    <option name="lastUsedInstant" value="1699595718" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="review/test1" />
                     <option name="lastUsedInstant" value="1699595561" />
@@ -107,14 +110,7 @@
       <workItem from="1685194259276" duration="1129000" />
       <workItem from="1685680295648" duration="80000" />
       <workItem from="1685681639889" duration="28000" />
-      <workItem from="1699595516090" duration="49000" />
-    </task>
-    <task id="LOCAL-00010" summary="아이템 9. use를 사용하여 리소스를 닫아라.">
-      <created>1684910388801</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1684910388801</updated>
+      <workItem from="1699595516090" duration="204000" />
     </task>
     <task id="LOCAL-00011" summary="아이템 10. 단위 테스트를 만들어라.">
       <created>1684912044829</created>
@@ -452,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685193979899</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="CODEOWNERS 추가">
+      <created>1699595583374</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1699595583375</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,7 +473,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="아이템 30. 요소의 가시성을 최소화하라" />
     <MESSAGE value="아이템 31. 문서로 규약을 정의하라" />
     <MESSAGE value="아이템 32. 추상화 규약을 지켜라" />
     <MESSAGE value="아이템 33. 생성자 대신 팩토리 함수를 사용하라" />
@@ -495,7 +497,8 @@
     <MESSAGE value="아이템 51. 성능이 중요한 부분에는 기본 자료형 배열을 사용하라" />
     <MESSAGE value="아이템 52. mutable 컬렉션 사용을 고려하라" />
     <MESSAGE value="부록, 용어 정리. Appendix.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="부록, 용어 정리. Appendix.md" />
+    <MESSAGE value="CODEOWNERS 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="CODEOWNERS 추가" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
