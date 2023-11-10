@@ -110,14 +110,7 @@
       <workItem from="1685194259276" duration="1129000" />
       <workItem from="1685680295648" duration="80000" />
       <workItem from="1685681639889" duration="28000" />
-      <workItem from="1699595516090" duration="434000" />
-    </task>
-    <task id="LOCAL-00014" summary="아이템 13. Unit? 을 리턴하지 말라.">
-      <created>1684912916710</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1684912916710</updated>
+      <workItem from="1699595516090" duration="474000" />
     </task>
     <task id="LOCAL-00015" summary="# 아이템 14. 변수 타입이 명확하지 않은 경우 확실하게 지정하라.">
       <created>1684913194686</created>
@@ -455,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699595838888</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="CODEOWNERS edit2">
+      <created>1699595954130</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1699595954130</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
